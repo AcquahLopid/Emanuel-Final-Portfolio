@@ -5,9 +5,8 @@ import Contact from "./Contact";
 // import Resume from "./Resume";
 import Portfolio from "./Portfolio";
 
-// import Header from "./Header";
-import Navigation from "./Navigation";
-// import Footer from "./Footer";
+import Header from "./Header";
+import Footer from "./Footer";
 
 function Container() {
     const [setTab, getTab] = useState("about");
