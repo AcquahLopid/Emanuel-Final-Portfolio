@@ -1,5 +1,6 @@
 import React from "react";
 import "./Portfolio.css";
+import Emojify from "../assets/Emojify.gif";
  
 
 

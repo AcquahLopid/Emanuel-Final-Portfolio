@@ -2,15 +2,14 @@ import React, { useState } from "react";
 
 import About from "./About";
 import Contact from "./Contact";
-import Resume from "./Resume";
+// import Resume from "./Resume";
 import Portfolio from "./Portfolio";
 
 import Header from "./Header";
 import Navigation from "./Navigation";
 import Footer from "./Footer";
-import { get } from "http";
 
-function container() {
+function Container() {
     const [setTab, getTab] = useState("about");
 
     const pickedTab = () => {
@@ -20,9 +19,9 @@ function container() {
         if (setTab === "Contact"){
             return <Contact />;
         }
-        if (setTab === "Resume"){
-            return <Resume />;
-        }
+        // if (setTab === "Resume"){
+        //     return <Resume />;
+        // }
         if (setTab === "Portfolio"){
             return <Portfolio />;
         }
@@ -37,3 +36,5 @@ function container() {
         </>
     );
 }
+
+export default Container;
