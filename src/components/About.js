@@ -1,15 +1,14 @@
 import React from "react";
-// import img of me
 import "./About.css";
 
 function About() {
     return (
-        <div>
-            <p> Full Stack Developer</p>
-            <img>
-            </img>
-            <p> About Me</p>
-            <p>
+        <div className="container">
+            <h1 className="title">Full Stack Developer</h1>
+            {/* <img>
+            </img> */}
+            <h2 className="subtitle">About Me</h2>
+            <p className="text">
             As a passionate and dedicated developer, I embarked on an intensive journey 
             to enhance my skills and accelerate my career through a rigorous bootcamp
             program. With great determination and unwavering commitment, I successfully

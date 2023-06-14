@@ -1,5 +1,6 @@
 import React from "react";
-import Navigation from "./Navigation"
+import Navigation from "./Navigation";
+import "./Header.css";
 
 function Header(props){
     const {
@@ -10,14 +11,15 @@ function Header(props){
         <div>
             <header className="flex-row">
                 <h1>Emanuel's Portfolio</h1>
-                <Navigation
+            </header>
+            <Navigation
                 setTab={setTab}
                 getTab={getTab}
                 >
-                </Navigation>
-            </header>
+            </Navigation>
         </div>
     );
 }
+
 
 export default Header;
