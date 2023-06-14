@@ -12,7 +12,7 @@
 .repositoryImg {
     position: relative; 
     height: 300px;
-  /* overflow: hidden; */
+  overflow: hidden;
   }
 
   .repositoryImg img {
@@ -20,7 +20,7 @@
     height: auto;
     object-fit: cover;
   }
-/*   
+  
   .repo-img .overlay {
     position: absolute;
     top: 0;
@@ -32,7 +32,7 @@
     color: #fff;
     padding: 1rem;
     text-align: center;
-  } */
+  }
   
   .repositoryImg:hover .overlay {
     display: flex;

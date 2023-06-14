@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 import About from "./About";
 import Contact from "./Contact";
-// import Resume from "./Resume";
+import Resume from "./Resume";
 import Portfolio from "./Portfolio";
 
 import Header from "./Header";
@@ -18,9 +18,9 @@ function Container() {
         if (setTab === "Contact"){
             return <Contact />;
         }
-        // if (setTab === "Resume"){
-        //     return <Resume />;
-        // }
+        if (setTab === "Resume"){
+            return <Resume />;
+        }
         if (setTab === "Portfolio"){
             return <Portfolio />;
         }
