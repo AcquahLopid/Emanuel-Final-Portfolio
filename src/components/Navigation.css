@@ -1,31 +1,29 @@
 nav {
-    background-color: gray;
+    background-image: url("../assets/Wood-Background.jpeg");
     overflow: hidden;
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
+    height: 100px;
   }
   
   nav a {
     float: left;
-    color: white;
-    text-align: center;
-    padding: 20px 16px;
+    color: whitesmoke;
+    padding: 38px 50px;
     text-decoration: none;
+    font-size: 25px;
   }
   
   nav a:hover {
-    background-color: #ddd;
-    color: black;
-  }
-  
-  .active {
-    background-color: yellow;
+    color: lightblue;
+
   }
   
   nav li {
       float:right;
+      list-style-type: none;
   }
   
   

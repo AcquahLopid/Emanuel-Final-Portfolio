@@ -1,6 +1,11 @@
 header {
-    position: relative;
+    position: absolute;
+    left: 0px;
+    top: 0px;
     z-index: 1;
-    top: 0;
+    color: whitesmoke;
+    font-family: serif;
+    text-shadow: lightblue 2px 3px;
+    padding-left: 20px;
   }
   

@@ -10,7 +10,7 @@ function Header(props){
     return (
         <div>
             <header className="flex-row">
-                <h1>Emanuel's Portfolio</h1>
+                <h1>Emanuel Molina</h1>
             </header>
             <Navigation
                 setTab={setTab}
