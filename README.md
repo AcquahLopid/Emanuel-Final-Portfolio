@@ -16,7 +16,7 @@ My Portfolio for anyone to view, this showcases my past projects and lets you kn
     
 To use the application, navigate to the deployed website. 
     
-    [Emanuel's Portfolio]()
+[Emanuel's Portfolio](https://acquahlopid.github.io/Emanuel-Final-Portfolio/)
     
 ## Authors
      
