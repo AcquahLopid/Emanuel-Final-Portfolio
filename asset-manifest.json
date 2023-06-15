@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/Emanuel-Final-Portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/Emanuel-Final-Portfolio/static/js/main.39aa8ae9.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Emanuel-Final-Portfolio/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/Emanuel-Final-Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/Emanuel-Final-Portfolio/static/css/main.8d7ae989.css",
+    "main.js": "/Emanuel-Final-Portfolio/static/js/main.ed16da1c.js",
+    "static/media/Emojify.gif": "/Emanuel-Final-Portfolio/static/media/Emojify.f74490df4fd18e688445.gif",
+    "static/media/Wood-Background.jpeg": "/Emanuel-Final-Portfolio/static/media/Wood-Background.04c06ac1a29a0452752d.jpeg",
+    "static/media/Emanuel-blossom.jpeg": "/Emanuel-Final-Portfolio/static/media/Emanuel-blossom.e034ab27ce98f3876ff2.jpeg",
+    "static/media/Emanuel-Molina resume 2021 OLD.pdf": "/Emanuel-Final-Portfolio/static/media/Emanuel-Molina resume 2021 OLD.8fe1ea289a158598be21.pdf",
     "index.html": "/Emanuel-Final-Portfolio/index.html",
-    "main.073c9b0a.css.map": "/Emanuel-Final-Portfolio/static/css/main.073c9b0a.css.map",
-    "main.39aa8ae9.js.map": "/Emanuel-Final-Portfolio/static/js/main.39aa8ae9.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Emanuel-Final-Portfolio/static/js/787.28cb0dcd.chunk.js.map"
+    "main.8d7ae989.css.map": "/Emanuel-Final-Portfolio/static/css/main.8d7ae989.css.map",
+    "main.ed16da1c.js.map": "/Emanuel-Final-Portfolio/static/js/main.ed16da1c.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.39aa8ae9.js"
+    "static/css/main.8d7ae989.css",
+    "static/js/main.ed16da1c.js"
   ]
 }
