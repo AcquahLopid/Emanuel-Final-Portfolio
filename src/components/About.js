@@ -1,13 +1,16 @@
 import React from "react";
 import "./About.css";
+import myPicture from "../assets/Emanuel-blossom.jpeg";
 
 function About() {
     return (
     <body>
+        <div>
+        <img src={myPicture} alt="Emanuel Molina" className="myself"></img>
+        </div>
         <div className="container">
             <h1 className="title">Full Stack Developer</h1>
-            {/* <img>
-            </img> */}
+        <div className="About-card">
             <h2 className="subtitle">About Me</h2>
             <p className="text">
             As a passionate and dedicated developer, I embarked on an intensive journey 
@@ -25,6 +28,7 @@ function About() {
             free to look at my past projects, resume, and portfolio, or reach out to me for
             more information.
             </p>
+            </div>
         </div>
     </body>
     );
