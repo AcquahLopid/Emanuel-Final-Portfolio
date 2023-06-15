@@ -1,6 +1,5 @@
 import React from "react";
-import resume from "../assets/Emanuel-Molina resume 2021 OLD.png";
-
+import resume from "../assets/Emanuel-Molina resume 2021 OLD.pdf";
 function Resume(){
     return (
     <div>
@@ -10,7 +9,10 @@ function Resume(){
         </div>
         <div>
         <a
-        href={resume}>
+        className="button is-primary"
+        href={resume}
+        download="EmanuelMolinaResume.pdf"
+        >
         
         </a>
         </div>

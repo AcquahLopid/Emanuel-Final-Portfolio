@@ -3,6 +3,7 @@ import "./About.css";
 
 function About() {
     return (
+    <body>
         <div className="container">
             <h1 className="title">Full Stack Developer</h1>
             {/* <img>
@@ -25,7 +26,7 @@ function About() {
             more information.
             </p>
         </div>
-
+    </body>
     );
 }
 
