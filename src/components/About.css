@@ -1,5 +1,5 @@
 body {
-  background-color: lightblue;
+  background-color: RGB(25, 25, 25);
   margin: 0;
 }
 .container {
@@ -8,7 +8,7 @@ body {
     align-items: center;
     text-align: center;
     padding: 20px;
-    margin-top: 300px;  
+    margin-top: 400px;  
     height: auto;
   }
   
@@ -16,16 +16,19 @@ body {
     margin-top: 250px;
     font-size: 2rem;
     margin-bottom: 1rem;
+    color: white;
   }
   
   .subtitle {
     font-size: 1.5rem;
     margin-bottom: 1rem;
+    color: white;
   }
   
   .text {
     font-size: 1rem;
     font-style: italic;
+    color: white;
   }
   .About-card {
     margin-top: auto ;
@@ -35,7 +38,7 @@ body {
     padding-right: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    background-color: burlywood;
+    background-color: navy;
     box-sizing: border-box;
   }
   .myself {

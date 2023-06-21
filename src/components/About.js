@@ -5,10 +5,8 @@ import myPicture from "../assets/Emanuel-blossom.jpeg";
 function About() {
     return (
     <body>
-        <div>
-        <img src={myPicture} alt="Emanuel Molina" className="myself"></img>
-        </div>
         <div className="container">
+            <img src={myPicture} alt="Emanuel Molina" className="myself"></img>
             <h1 className="title">Full Stack Developer</h1>
         <div className="About-card">
             <h2 className="subtitle">About Me</h2>
